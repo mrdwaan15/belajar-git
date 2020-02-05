@@ -1,1 +1,3 @@
-# belajar-git
+# Hello Word
+
+saya sedang belajar git.
